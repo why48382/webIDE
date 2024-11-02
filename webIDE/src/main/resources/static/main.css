@@ -9,6 +9,7 @@ body {
 .nav-item {
     margin: auto;
 }
+.badge {user-select: none; cursor: pointer; }
 .navbar-light {
     color: black;
     background-color: #f8fafa;
